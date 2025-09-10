@@ -1,0 +1,16 @@
+# Model files
+*.pkl
+
+# Metadata and intermediate files
+*.json
+*.csv
+
+# Temporary chart
+risk_chart_temp.png
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
